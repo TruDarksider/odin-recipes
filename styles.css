@@ -1,0 +1,42 @@
+body {
+    background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+h2 {
+    color: coral;
+    background-color: chartreuse;
+}
+
+h3 {
+    color: crimson;
+}
+
+p {
+    color: blue;
+}
+
+ul {
+    background-color: aquamarine;
+    color: darkmagenta;
+    text-align: center;
+}
+
+ol {
+    background-color: white;
+    color: darkred;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.ing {
+    text-align: left;
+}
